@@ -4,6 +4,7 @@
 
  int main()
  {
+     //программа является учебной//
  int a, b;
      cout << "Enter A and B: ";
  cin >> a >> b;
